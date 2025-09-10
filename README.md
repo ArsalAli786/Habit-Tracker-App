@@ -26,7 +26,7 @@ It allows you to log your habits monthly, visualize your progress, and analyze s
 Clone the repo and install dependencies:
 
 ```bash
-- git clone [https://github.com/yourusername/habit-tracker-app.git](https://github.com/ArsalAli786/Habit-Tracker-App/)
+- git clone (https://github.com/ArsalAli786/Habit-Tracker-App/)
 - cd habit-tracker-app
 - pip install -r requirements.txt
 ```
