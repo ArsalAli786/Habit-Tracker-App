@@ -40,6 +40,7 @@ streamlit run app.py
 
 ## 🌍 Deployment
 This app is deployed on Streamlit Community Cloud.
+- https://habit-tracker-app-6jpwzipgg2qpbmktzdek3f.streamlit.app/
 
 ---
 
