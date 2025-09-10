@@ -24,7 +24,44 @@ It allows you to log your habits monthly, visualize your progress, and analyze s
 
 ## 📦 Installation
 Clone the repo and install dependencies:
+
 ```bash
-git clone https://github.com/yourusername/habit-tracker-app.git
-cd habit-tracker-app
-pip install -r requirements.txt
+- git clone [https://github.com/yourusername/habit-tracker-app.git](https://github.com/ArsalAli786/Habit-Tracker-App/)
+- cd habit-tracker-app
+- pip install -r requirements.txt
+```
+Run locally:
+
+```bash
+streamlit run app.py
+```
+
+---
+
+## 🌍 Deployment
+This app is deployed on Streamlit Community Cloud.
+
+---
+
+## 📂 Project Structure
+
+```bash
+- habit-tracker-app/
+- │── app.py                # main Streamlit app
+- │── requirements.txt      # dependencies
+- │── .streamlit/
+- │    └── config.toml      # theme settings
+- │── README.md             # project info
+```
+
+## ✨ Future Improvements
+- Export data as CSV/Excel
+- Add daily habit logging
+- User authentication for personal tracking
+
+## 👨‍💻 Author
+### Arsal Ali
+
+-🎓 Software Engineer | University of Karachi
+
+-📜 Certified in Python Programming & Data Science (SMIT)
